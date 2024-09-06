@@ -15,7 +15,7 @@
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
-
+ 
 
 <b> 2. jetson nano에 대하여
 
@@ -23,17 +23,14 @@
        https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2&unit=block-v1:DLI+S-RX-02+V2+type@vertical+block@aba5104413ae454c8c63a6f301925337
 
 <b> 3. jetpack downloads 
-
+  
 <b>      https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
 <b> 4. 이미지  굽기 위해 필요한 것들
 
-       4-1. sd card formatter ---> download
+       4-1. sd card formatter  download우분투
        4-2. balenaetcher download --->  이미지 굽기
        4-3. 제슨나노에 sd넣고 우분투 설치
-       ![image](https://github.com/user-attachments/assets/76221060-2bb6-4c36-a783-1353c28310a6)  
-
-       
        
 <b> 4. 제슨 알아보고 설치하기
   
@@ -46,3 +43,9 @@
   <b> 5. image regression  -  Face XY Project
 
   https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2&unit=block-v1:DLI+S-RX-02+V2+type@vertical+block@76a2873eb69946b4928c4f8432e04314
+
+**우분투를 설치해보자**
+https://drive.google.com/file/d/1eNH8wnBCQqZ5hHVTkePTOkxADm84bHcI/view?usp=drive_link
+https://drive.google.com/file/d/1l3fVGiyz5_Asv1BkwFQGUTB5ulQxL1q6/view?usp=drive_link
+https://drive.google.com/file/d/1BVBJ95S-BxxL7h2Hot6QZODcPyAn6X-B/view?usp=drive_link
+
